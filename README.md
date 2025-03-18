@@ -132,7 +132,7 @@ Execute the program using runserver command.
     </table>
 </body>
 </html>
-c
+
 ```
 
 ## OUTPUT
